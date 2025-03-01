@@ -3,7 +3,7 @@
 
 - 👨‍💻 I’m interested in **Data Science**
 
-- 🔭 I’m currently learning **Natural Language Processing**
+- 🔭 I’m currently learning **Deep Learning** and **Natural Language Processing** 
 
 - 📫 How to reach me **tuhanasinan@gmail.com**
 

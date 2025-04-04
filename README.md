@@ -13,6 +13,8 @@
 <a href="https://kaggle.com/tuhanasinan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="tuhanasinan" height="30" width="40" /></a>
 </p>
 
+
+
 ### 👨‍💻 Languages and Tools:
 
 #### Programming Languages:
@@ -37,7 +39,7 @@
 </a>
 </p>
 
-#### Machine Learning & Data Science::
+#### Machine Learning, Deep Learning & Data Science:
 <p align="left">
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
@@ -56,7 +58,7 @@
 </a>
 </p>
 
-#### Web Development:
+#### Web, Databases & OS Tools:
 <p align="left">
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
@@ -70,19 +72,9 @@
 <a href="https://nodejs.org" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
 </a>
-</p>
-
-#### Databases:
-<p align="left">
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
 </a>
-</p>
-
-
-
-#### Operating Systems & Tools:
-<p align="left">
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
 </a>

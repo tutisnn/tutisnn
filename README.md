@@ -3,7 +3,7 @@
 
 - 👨‍💻 I’m interested in **Data Science**
 
-- 🔭 I’m currently learning **Deep Learning** ,**Natural Language Processing** ,**Flutter** and **Spring Boot**.
+- 🔭 I’m currently learning **Deep Learning** and **Natural Language Processing** .
 
 - 📫 How to reach me **tuhanasinan@gmail.com**
 

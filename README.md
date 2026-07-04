@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tuhana</h1>
-<h3 align="center">senior software engineering student</h3>
+<h3 align="center">Software Engineer</h3>
 
 - 👨‍💻 I’m interested in **Data Science**
 
